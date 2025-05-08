@@ -26,7 +26,7 @@ tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A test site for CollectionBuilder"
-author: CollectionBuilder
+author: Greer Martin
 
 ##########
 # COLLECTION SETTINGS
